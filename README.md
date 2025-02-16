@@ -24,6 +24,10 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building a
 ---
 
 ## 💼 Experience
+### Web Development Intern @ **Ollato Eduversity Pvt Ltd, Mumbai** (Jan 2025 - feb 2025)
+- Developed React & Node.js-based web applications (Front End & Back End).
+- Proactively contributed to team projects and improved system efficiency.
+  
 ### Web Development Intern @ **DC InfoTech Pvt Ltd, Mumbai** (Sept 2024 - Dec 2024)
 - Developed scalable web solutions using modern web technologies.
 - Contributed to various web development projects with a focus on security and performance.
